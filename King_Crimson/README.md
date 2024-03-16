@@ -8,5 +8,13 @@ After seven years of inactivity, King Crimson was reborn in 1981 with another ch
 
 Following another hiatus (2009–2012), during which Fripp was thought to be retired, King Crimson came together again in 2013; this time as a septet (and, later, octet) with an unusual three-drumkit frontline, and new second guitarist and singer Jakko Jakszyk. This version of King Crimson continued to tour from 2014 to 2021, and released multiple live albums.
 
--------------------
-***source [Wikipedia](https://www.wikiwand.com/en/King_Crimson)***
+
+source: ***[Wikipedia](https://www.wikiwand.com/en/King_Crimson)***
+
+## Reviews of Albums
+<a href="In_the_Court_of_the_Crimson_King/README.md#in-the-court-of-the-crimson-king">In the Court of the Crimson King</a>
+
+## Related links
+
+
+<a href="../README.md">Return to Home</a>
