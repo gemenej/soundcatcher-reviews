@@ -13,7 +13,7 @@ Despite lowered sales estimates by EMI, who deemed the record uncommercial and d
 
 **OK Computer** received acclaim and has been cited as one of the greatest albums of all time. It was nominated for Album of the Year and won Best Alternative Music Album at the 1998 Grammy Awards. It was also nominated for Best British Album at the 1998 Brit Awards. The album initiated a stylistic shift in British rock away from Britpop toward melancholic, atmospheric alternative rock that became more prevalent in the next decade. In 2014, it was included by the United States Library of Congress in the National Recording Registry as "culturally, historically, or aesthetically significant". A remastered version with additional tracks, OKNOTOK 1997 2017, was released in 2017, marking the album's twentieth anniversary. In 2019, in response to an internet leak, **Radiohead** released MiniDiscs [Hacked], comprising hours of additional material.
 
-source: _[Wikipedia](https://www.wikiwand.com/en/OK_Computer)_
+source: <a href="https://www.wikiwand.com/en/OK_Computer" target="_blank">_Wikipedia_</a>
 
 ## Rolling Stone
 _MARK KEMP_ (July 10, 1997)
@@ -30,7 +30,7 @@ There are moments on **Paranoid Android** when **Yorke** sounds as though he’s
 
 Like **R.E.M.**’s recent **New Adventures in Hi-fi**, the music on **OK Computer** has a surreal, cinematic quality. Also like the **R.E.M.** record, this album hints at some kind of dark spiritual crossroad. In the delicate **No Surprises**,” _Yorke_ announces, “_This is my final fit, my final bellyache._” Where **Radiohead** might go from here is anyone’s guess, but **OK Computer** is evidence that they are one rock band still willing to look the devil square in the eyes.
 
-source: _[Rolling Stone](https://www.rollingstone.com/music/music-album-reviews/ok-computer-189802/)_
+source: <a href="https://www.rollingstone.com/music/music-album-reviews/ok-computer-189802/" target="_blank">_Rolling Stone_</a>
 
 ## Q Magazine
 _David Cavanagh_ (July 1997)
@@ -65,7 +65,7 @@ Suddenly, however, there's a respite from this two-song burst of chaos. In fact,
 
 And that is that. A landmark on every latitude. Not the least achievement of **OK Computer** is that a major weirdo-psychological English guitar band can induce gasps of admiration, stunned silence and more than a few lumps in the throat. It's and emotionally draining, epic experience. Now **Radiohead** can definitely be ranked high among the world's greatest bands.
 
-source: _[Q Magazine](http://www.qonline.co.uk/reviews/server.asp?id=18513&ss=radiohead&cs=artist&st=cn&stars=NaN&cp=1)_
+source: <a href="http://www.qonline.co.uk/reviews/server.asp?id=18513&ss=radiohead&cs=artist&st=cn&stars=NaN&cp=1" target="_blank">_Q Magazine_</a>
 
 ## Pitchfork
 _Ryan Schreiber_ (1999)
@@ -80,7 +80,7 @@ The record is brimming with genuine emotion, beautiful and complex imagery and m
 
 **Radiohead** only seem to get better as time progresses, but **Thom Yorke**'s expressed some doubt as to whether or not they can ever top this record. If they can, they'll have established themselves as one of the most outstanding rock bands the '90s had to offer. If not, they still came out of the deal with one album of unadulterated genius. Time will tell.
 
-source: _[Pitchfork](http://www.pitchforkmedia.com/record-reviews/r/radiohead/ok-computer.shtml)_
+source: <a href="http://www.pitchforkmedia.com/record-reviews/r/radiohead/ok-computer.shtml" target="_blank">_Pitchfork_</a>
 
 ## NME
 _James Oldham_ (1999)
@@ -99,14 +99,14 @@ Because, while **Thom** was dreaming daily of planetary escape, the rest of the 
 
 Of course, the first single - **Paranoid Android** - was designed to prepare you for that: six minutes of disconcerting sound and lyrical distress, half of which is dominated by freakish guitar spasms and jolting time changes, half by neo-classical choirs and calming acoustics. Surely one of the only comeback singles ever to summon up images of cascading snowfalls and the Napoleonic retreat from Moscow? And certainly one of the most bizarre songs ever to find its way into the British Top Five.
 
-source: _[NME](http://www.nme.com/reviews/reviews/19980101000014reviews.html)_
+source: <a href="http://www.nme.com/reviews/reviews/19980101000014reviews.html" target="_blank">_NME_</a>
 
 ## AllMusic
 _Stephen Thomas Erlewine_
 
 Using the textured soundscapes of **The Bends** as a launching pad, **Radiohead** delivered another startlingly accomplished set of modern guitar rock with **OK Computer**. The anthemic guitar heroics present on **Pablo Honey** and even **The Bends** are nowhere to be heard here. **Radiohead** have stripped away many of the obvious elements of guitar rock, creating music that is subtle and textured yet still has the feeling of rock & roll. Even at its most adventurous -- such as the complex, multi-segmented **Paranoid Android** -- the band is tight, melodic, and muscular, and **Thom Yorke**'s voice effortlessly shifts from a sweet falsetto to vicious snarls. It's a thoroughly astonishing demonstration of musical virtuosity and becomes even more impressive with repeated listens, which reveal subtleties like electronica rhythms, eerie keyboards, odd time signatures, and complex syncopations. Yet all of this would simply be showmanship if the songs weren't strong in themselves, and **OK Computer** is filled with moody masterpieces, from the shimmering **Subterranean Homesick Alien** and the sighing **Karma Police** to the gothic crawl of **Exit Music (For a Film)**. **OK Computer** is the album that established **Radiohead** as one of the most inventive and rewarding guitar rock bands of the '90s.
 
-source: _[AllMusic](https://www.allmusic.com/album/ok-computer-mw0000024289)_
+source: <a href="https://www.allmusic.com/album/ok-computer-mw0000024289" target="_blank">_AllMusic_</a>
 
 ## Track listing
 All tracks are written by _Thom Yorke_, _Jonny Greenwood_, _Philip Selway_, _Ed O'Brien_ and _Colin Greenwood_.
@@ -124,4 +124,5 @@ All tracks are written by _Thom Yorke_, _Jonny Greenwood_, _Philip Selway_, _Ed 
 11. "Lucky" – 4:19
 12. "The Tourist" – 5:24
 
+## Related links
 <a href="../README.md#Radiohead">Return to Radiohead</a>

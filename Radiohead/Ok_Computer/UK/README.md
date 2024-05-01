@@ -13,7 +13,7 @@ UK <a href="../README.md">EN</a>
 
 **OK Computer** отримав визнання і був названий одним з найкращих альбомів усіх часів. Він був номінований на _Album of the Year_ і виграв _Best Alternative Music Album_ на _Grammy Awards_ 1998 року. Він також був номінований як найкращий британський альбом на _Brit Awards_ 1998 року. Альбом започаткував стилістичний зсув британського року від бритпопу до меланхолійного, атмосферного альтернативного року, який став більш поширеним у наступному десятилітті. У 2014 році Бібліотека Конгресу США внесла його до Національного реєстру звукозаписів як "культурно, історично чи естетично значущий". Ремастирована версія з додатковими треками, _OKNOTOK 1997 2017_, була випущена у 2017 році, відзначаючи двадцяту річницю альбому. У 2019 році, у відповідь на витік в інтернеті, **Radiohead** випустили _MiniDiscs [Hacked]_, що містить кілька годин додаткового матеріалу.
 
-source: _[Wikipedia](https://www.wikiwand.com/en/OK_Computer)_
+source: <a href="https://www.wikiwand.com/en/OK_Computer" target="_blank">_Wikipedia_</a>
 
 ## Rolling Stone
 _MARK KEMP_ (July 10, 1997)
@@ -30,7 +30,7 @@ _MARK KEMP_ (July 10, 1997)
 
 Як і нещодавній альбом **R.E.M.** **New Adventures in Hi-fi**, музика **OK Computer** має сюрреалістичну, кінематографічну якість. Так само, як і альбом **R.E.M.**, цей альбом натякає на якесь темне духовне перехрестя. У делікатній **No Surprises** **Yorke** оголошує: "_Це мій останній приступ, мій останній біль у животі_". Куди **Radiohead** підуть далі, можна тільки здогадуватися, але **OK Computer** - це доказ того, що вони - єдиний рок-гурт, який все ще готовий дивитися дияволу прямо в очі.
 
-source: _[Rolling Stone](https://www.rollingstone.com/music/music-album-reviews/ok-computer-189802/)_
+source: <a href="https://www.rollingstone.com/music/music-album-reviews/ok-computer-189802/" target="_blank">_Rolling Stone_</a>
 
 ## Q Magazine
 _David Cavanagh_ (July 1997)
@@ -65,7 +65,7 @@ _David Cavanagh_ (July 1997)
 
 І це все. Орієнтир на всіх широтах. Не останньою заслугою **OK Computer** є те, що великий дивакувато-психологічний англійський гітарний гурт здатен викликати подихи захоплення, приголомшливе мовчання і більше, ніж кілька комків у горлі. Це емоційно виснажливий, епічний досвід. Тепер **Radiohead** можна сміливо ставити на одне з перших місць серед найкращих гуртів світу.
 
-source: _[Q Magazine](http://www.qonline.co.uk/reviews/server.asp?id=18513&ss=radiohead&cs=artist&st=cn&stars=NaN&cp=1)_
+source: <a href="http://www.qonline.co.uk/reviews/server.asp?id=18513&ss=radiohead&cs=artist&st=cn&stars=NaN&cp=1" target="_blank">_Q Magazine_</a>
 
 ## Pitchfork
 _Ryan Schreiber_ (1999)
@@ -80,7 +80,7 @@ _Ryan Schreiber_ (1999)
 
 Здається, що з плином часу **Radiohead** стають тільки кращими, але **Thom Yorke** висловив деякі сумніви щодо того, чи зможуть вони коли-небудь перевершити цей рекорд. Якщо так, то вони зарекомендують себе як один з найвидатніших рок-гуртів, які могли запропонувати 90-ті. Якщо ж ні, вони все одно вийдуть з угоди з одним альбомом справжнього генія. Час покаже.
 
-source: _[Pitchfork](http://www.pitchforkmedia.com/record-reviews/r/radiohead/ok-computer.shtml)_
+source: <a href="http://www.pitchforkmedia.com/record-reviews/r/radiohead/ok-computer.shtml" target="_blank">_Pitchfork_</a>
 
 ## NME
 _James Oldham_ (1999)
@@ -99,14 +99,14 @@ _Oxfordshire_, 1996 рік, і **Radiohead** нарешті починають �
 
 Звісно, перший сингл - **Paranoid Android** - був покликаний підготувати вас до цього: шість хвилин бентежного звучання і ліричного страждання, половину з яких домінують химерні гітарні спазми і трясучі зміни часу, половину - неокласичні хори і заспокійлива акустика. Безумовно, один з небагатьох синглів-повернень, що викликає в пам'яті образи каскадних снігопадів і наполеонівського відступу з Москви? І, безумовно, одна з найхимерніших пісень, що коли-небудь потрапляла до британського хіт-параду.
 
-source: _[NME](http://www.nme.com/reviews/reviews/19980101000014reviews.html)_
+source: <a href="http://www.nme.com/reviews/reviews/19980101000014reviews.html" target="_blank">_NME_</a>
 
 ## AllMusic
 _Stephen Thomas Erlewine_
 
 Використовуючи текстуровані звукові ландшафти **The Bends** як стартовий майданчик, **Radiohead** представили ще один вражаюче досконалий набір сучасного гітарного року з **OK Computer**. Гітарна героїка, присутня на **Pablo Honey** і навіть на **The Bends**, тут ніде не звучить. **Radiohead** позбулися багатьох очевидних елементів гітарного року, створивши музику, яка є витонченою і фактурною, але все ще має відчуття рок-н-ролу. Навіть у своїх найбільш авантюрних піснях, таких як складна, багатосегментна **Paranoid Android**, гурт є щільним, мелодійним і м'язистим, а голос **Thom Yorke** легко переходить від солодкого фальцету до злісного гарчання. Це вражаюча демонстрація музичної віртуозності, яка стає ще більш вражаючою при повторних прослуховуваннях, що розкривають такі тонкощі, як електронні ритми, моторошні клавішні, дивні часові підписи та складні синкопи. Проте все це було б просто показухою, якби пісні не були сильними самі по собі, а **OK Computer** наповнений похмурими шедеврами, від мерехтливої **Subterranean Homesick Alien** і зітхаючої **Karma Police** до готичної повзучої **Exit Music (For a Film)**. **OK Computer** - альбом, який зробив Radiohead одним з найбільш винахідливих і плідних гітарних рок-гуртів 90-х років.
 
-source: _[AllMusic](https://www.allmusic.com/album/ok-computer-mw0000024289)_
+source: <a href="https://www.allmusic.com/album/ok-computer-mw0000024289" target="_blank">_AllMusic_</a>
 
 ## Track listing
 All tracks are written by _Thom Yorke_, _Jonny Greenwood_, _Philip Selway_, _Ed O'Brien_ and _Colin Greenwood_.
@@ -124,4 +124,5 @@ All tracks are written by _Thom Yorke_, _Jonny Greenwood_, _Philip Selway_, _Ed 
 11. "Lucky" – 4:19
 12. "The Tourist" – 5:24
 
+## Related links
 <a href="../../README.md#Radiohead">Return to Radiohead</a>
