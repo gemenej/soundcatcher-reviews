@@ -20,7 +20,7 @@ _In an interstellar burst_\
 _I am back to save the universe_
 
 > [!NOTE]
-> Authors: Jonny Greenwood / Colin Greenwood / Thom Yorke / Ed O'brien / Phil Selway
+> Authors: Jonny Greenwood / Colin Greenwood / Thom Yorke / Ed O'brien / Phil Selway\
 > Album: Ok Computer
 
 <a href="../../README.md">Return to Ok Computer</a>
