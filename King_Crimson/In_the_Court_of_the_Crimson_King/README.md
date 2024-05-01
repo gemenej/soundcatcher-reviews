@@ -1,6 +1,6 @@
 # In the Court of the Crimson King
 
-![Summary of Introduction of Article 1](../images/king_crim_courtf.jpg)
+![In the Court of the Crimson King](../images/king_crim_courtf.jpg)
 
 ## Wikipedia
 
@@ -32,7 +32,7 @@ source: _[Rolling Stone](https://web.archive.org/web/20071022050233/http://www.r
 
 
 ## Pitchfork
-***Ryan Reed*** (Nov 11, 2019)
+_Ryan Reed_ (Nov 11, 2019)
 
 > The perennially reissued, landmark debut from the prog rock giants doesn’t offer much memorable bonus material, but the album remains a towering pillar of musicianship, wonder, and menace. 
 

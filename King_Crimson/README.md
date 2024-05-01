@@ -1,4 +1,4 @@
-![Summary of Introduction of Article 1](./images/Uncertain_Times_Japan_Tour_2018.jpg)
+![King Crimson](./images/Uncertain_Times_Japan_Tour_2018.jpg)
 
 # King Crimson
 
