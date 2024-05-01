@@ -111,7 +111,7 @@ source: _[AllMusic](https://www.allmusic.com/album/ok-computer-mw0000024289)_
 ## Track listing
 All tracks are written by _Thom Yorke_, _Jonny Greenwood_, _Philip Selway_, _Ed O'Brien_ and _Colin Greenwood_.
 
-1. "Airbag" – 4:44
+1. <a href="Tracks/Airbag/README.md">"Airbag"</a> – 4:44
 2. "Paranoid Android" – 6:23
 3. "Subterranean Homesick Alien" – 4:27
 4. "Exit Music (For a Film)" – 4:24
