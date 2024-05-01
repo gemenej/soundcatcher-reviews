@@ -14,6 +14,4 @@ source: _[Wikipedia](https://www.wikiwand.com/uk/The_Rolling_Stones)_
 <!--<a href="In_the_Court_of_the_Crimson_King/README.md#in-the-court-of-the-crimson-king">In the Court of the Crimson King</a>-->
 
 ## Related links
-
-
 <a href="../README.md">Return to Home</a>
