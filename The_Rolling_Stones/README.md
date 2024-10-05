@@ -1,4 +1,4 @@
-![The Rolling Stones](./images/The_Rolling_Stones_wallpaper.jpg)
+![The Rolling Stones](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/1920px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg)
 
 # The Rolling Stones
 
@@ -8,10 +8,9 @@
 
 У 1989 **The Rolling Stone** включено до Зали слави рок-н-ролу. Зайняв 4 місце в рейтингу найкращих музичних виконавців за версією журналу _Rolling Stone_ 2004 року і друге місце у подібному рейтингу сайту Acclaimedmusic.net.
 
-source: _[Wikipedia](https://www.wikiwand.com/uk/The_Rolling_Stones)_
+source: <a href="https://www.wikiwand.com/uk/The_Rolling_Stones" target="_blank">_Wikipedia_</a>
 
 ## Reviews of Albums
-<!--<a href="In_the_Court_of_the_Crimson_King/README.md#in-the-court-of-the-crimson-king">In the Court of the Crimson King</a>-->
 
 ## Related links
 <a href="../README.md">Return to Home</a>

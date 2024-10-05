@@ -1,5 +1,5 @@
 # A Light for Attracting Attention
-EN <a href="UK/README.md">UK</a>
+UK <a href="../README.md">EN</a>
 
 ![Ok Computer](https://upload.wikimedia.org/wikipedia/en/5/50/A_Light_for_Attracting_Attention_%28The_Smile_album_-_cover_art%29.png)
 
@@ -22,5 +22,5 @@ Tracks are written by _Thom Yorke_, _Jonny Greenwood_, _Nigel Godrich_, _Tom Ski
 13.	"Skrting On The Surface" – 5:31
 
 ## Related links
-<a href="../README.md#The Smile">The Smile</a>
-<a href="../../README.md">Return to Home</a>
+<a href="../../README.md#The Smile">The Smile</a>
+<a href="../../../README.md">Return to Home</a>

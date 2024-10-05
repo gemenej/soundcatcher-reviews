@@ -1,4 +1,4 @@
-![King Crimson](./images/Uncertain_Times_Japan_Tour_2018.jpg)
+![King Crimson](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/King_Crimson%2C_De_vereeniging_te_Nijmegen_-_48113112087_%28cropped%29.jpg/1920px-King_Crimson%2C_De_vereeniging_te_Nijmegen_-_48113112087_%28cropped%29.jpg)
 
 # King Crimson
 
@@ -17,12 +17,10 @@
 Після чергової перерви (2009—2012) **King Crimson** знову зібрався разом у 2013 році, цього разу як септет, а пізніше октет, — з незвичним складом із трьох ударних установок і новим другим гітаристом і вокалістом _Якко Якшиком_. Ця інкарнація **King Crimson** гастролювала з 2014 по 2021 рік і випустила кілька концертних альбомів.
 
 
-source: _[Wikipedia](https://www.wikiwand.com/en/King_Crimson)_
+source: <a href="https://www.wikiwand.com/en/King_Crimson" target="_blank">_Wikipedia_</a>
 
 ## Reviews of Albums
 <a href="In_the_Court_of_the_Crimson_King/README.md#in-the-court-of-the-crimson-king">In the Court of the Crimson King</a>
 
 ## Related links
-
-
 <a href="../README.md">Return to Home</a>

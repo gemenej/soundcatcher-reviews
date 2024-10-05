@@ -1,7 +1,7 @@
 # Ok Computer 
 UK <a href="../README.md">EN</a>
 
-![Ok Computer](../../images/ok_computer.jpeg)
+![Ok Computer](https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png)
 
 ## Wikipedia
 
@@ -126,3 +126,4 @@ All tracks are written by _Thom Yorke_, _Jonny Greenwood_, _Philip Selway_, _Ed 
 
 ## Related links
 <a href="../../README.md#Radiohead">Return to Radiohead</a>
+<a href="../../../README.md">Return to Home</a>

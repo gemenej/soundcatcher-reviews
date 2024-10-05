@@ -1,7 +1,7 @@
 # Led Zeppelin
 UK <a href="../README.md">EN</a>
 
-![Led Zeppelin](../../images/led_zeppelin_1969.jpg)
+![Led Zeppelin](https://upload.wikimedia.org/wikipedia/en/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png)
 
 ## AllMusic
 _Stephen Thomas Erlewine_
@@ -33,3 +33,4 @@ source: <a href="https://www.rollingstone.com/music/music-album-reviews/led-zepp
 
 ## Related links
 <a href="../../README.md">Return to Led Zeppelin</a>
+<a href="../../../README.md">Return to Home</a>

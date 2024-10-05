@@ -1,7 +1,7 @@
 # NO NAME 
 UK <a href="../README.md">EN</a>
 
-![NO NAME](../../images/No_Name.jpg)
+![NO NAME](https://upload.wikimedia.org/wikipedia/commons/3/3e/Jack_White_No_Name_vinyl_label.png)
 
 ## Uncut
 _Peter Watts_ (July 23, 2024)
@@ -86,4 +86,5 @@ source: <a href="https://www.theguardian.com/music/article/2024/jul/22/jack-whit
 
 ## Related links
 <a href="../../README.md#jack-white">Return to Jack White</a>
+<a href="../../../README.md">Return to Home</a>
 

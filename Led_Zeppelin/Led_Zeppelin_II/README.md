@@ -1,7 +1,7 @@
 # Led Zeppelin II
 EN <a href="UK/README.md">UK</a>
 
-![Led Zeppelin II](../images/led_zeppelin_ii.jpg)
+![Led Zeppelin II](https://upload.wikimedia.org/wikipedia/en/2/20/Led_Zeppelin_-_Led_Zeppelin_II.jpg)
 
 ## AllMusic
 _Stephen Thomas Erlewine_
@@ -24,3 +24,4 @@ source: <a href="https://www.allmusic.com/album/led-zeppelin-ii-mw0000190649" ta
 
 ## Related links
 <a href="../README.md">Return to Led Zeppelin</a>
+<a href="../../README.md">Return to Home</a>

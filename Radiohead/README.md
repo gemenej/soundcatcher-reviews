@@ -1,4 +1,4 @@
-![Radiohead](./images/radiohead.webp)
+![Radiohead](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RadioheadMid2010s.jpg/1920px-RadioheadMid2010s.jpg)
 
 # Radiohead
 

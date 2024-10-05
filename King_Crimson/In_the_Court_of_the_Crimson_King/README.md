@@ -1,6 +1,6 @@
 # In the Court of the Crimson King
 
-![In the Court of the Crimson King](../images/king_crim_courtf.jpg)
+![In the Court of the Crimson King](https://upload.wikimedia.org/wikipedia/en/8/84/In_the_Court_of_the_Crimson_King_-_40th_Anniversary_Box_Set_-_Front_cover.jpeg)
 
 ## Wikipedia
 
@@ -9,7 +9,7 @@
 Considered by many critics to be one of the greatest progressive rock albums of all time, it reached number five on the UK Albums Chart and number 28 on the US Billboard 200, where it was certified Gold by the Recording Industry Association of America (RIAA).
 
 
-source: _[Wikipedia](https://www.wikiwand.com/en/In_the_Court_of_the_Crimson_King)_
+source: <a href="https://www.wikiwand.com/en/In_the_Court_of_the_Crimson_King" target="_blank">_Wikipedia_</a>
 
 
 ## Rolling Stone
@@ -28,7 +28,7 @@ Besides which they're good musicians. Guitarist Robert Fripp and Ian McDonald (r
 How effectively this music can be on stage is, admittedly, a big question. The answer is probably not too well. Still, King Crimson's first album is successful; hopefully, there is more to come.
 
 
-source: _[Rolling Stone](https://web.archive.org/web/20071022050233/http://www.rollingstone.com/artists/kingcrimson/albums/album/215038/review/6067524/in_the_court_of_the_crimson_king)_
+source: <a href="https://web.archive.org/web/20071022050233/http://www.rollingstone.com/artists/kingcrimson/albums/album/215038/review/6067524/in_the_court_of_the_crimson_king" target="_blank">_Rolling Stone_</a>
 
 
 ## Pitchfork
@@ -58,11 +58,11 @@ The original LP itself is enough, and always will be: Its fingerprint is so dist
 
 He was right in a practical sense: King Crimson’s jarring upward velocity could only carry them so far. The band crumbled after their first U.S. tour, leaving Fripp to rebuild as their de-facto maestro—restructuring the line-up again and again in search of “Good Fairy” dust. They found it, of course: Many of their subsequent records (the percussive pummel of 1973’s Larks’ Tongues in Aspic, the interlocking guitars and new wave sheen of 1981’s Discipline) glimpsed galaxies of new ideas as Fripp endlessly re-tooled his vision. But all roads branch out from the mighty Court.
 
-source: _[Pitchfork](https://pitchfork.com/reviews/albums/king-crimson-in-the-court-of-the-crimson-king-50th-anniversary)_
+source: <a href="https://pitchfork.com/reviews/albums/king-crimson-in-the-court-of-the-crimson-king-50th-anniversary" target="_blank">_Pitchfork_</a>
 
-![Summary of Introduction of Article 1](../images/king_crim_court_in.jpg)
-
+## Related links
 <a href="../README.md#king-crimson">Return to King Crimson</a>
+<a href="../../README.md">Return to Home</a>
 
 
 
