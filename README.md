@@ -11,3 +11,5 @@
 <a href="Led_Zeppelin/README.md">Led Zeppelin</a>
 
 <a href="The_Beatles/README.md">The Beatles</a>
+
+<a href="The_Smile/README.md">The Smile</a>
